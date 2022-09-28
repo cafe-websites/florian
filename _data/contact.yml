@@ -1,0 +1,14 @@
+location:
+  address: 617 Rathdowne St, Carlton North VIC 3054, Australia
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.972723486533!2d144.97138999999999!3d-37.790679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad64376bd61f8a7%3A0x42439621394012dc!2sFlorian!5e0!3m2!1sen!2sus!4v1664330235926!5m2!1sen!2sus
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/pages/category/Cafe/Florian-Eatery-104801505031254/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:(+xx) xxxxxxxxx
